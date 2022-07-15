@@ -17,3 +17,5 @@ hello miemie !
 hello miemie !   master
 hello miemie !
 hello miemie ! master
+hello miemie !  hot-fix
+hello miemie !  hot-fix
